@@ -4,6 +4,10 @@ This a data grid app having filter option.
 
 This App is built using [React](https://github.com/facebook/react) and [TypeScript](https://github.com/microsoft/TypeScript) with [Vite](https://github.com/vitejs/vite).
 
+# Live Demo
+
+This application is live at the below link - [Data Grid App](https://riyamehere.github.io/React-data-grid-app)
+
 # Table of contents
 
 - [Installation and Project Run](#installation-and-project-run)
