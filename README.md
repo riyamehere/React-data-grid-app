@@ -7,6 +7,10 @@ This App is built using [React](https://github.com/facebook/react) and [TypeScri
 # Table of contents
 
 - [Installation and Project Run](#installation-and-project-run)
+- [Getting Started](#getting-started)
+- [Available npm scripts](#available-scripts)
+- [Coding Standards](#coding-standards)
+- [Contact](#contact)
 
 
 ## Installation and Project Run
