@@ -1,0 +1,9 @@
+[
+    { "field": "ref_id", "headerName": "Ref ID", "width": 140 },
+    { "field": "customer", "headerName": "Customer", "width": 180 },
+    { "field": "product", "headerName": "Products", "width": 180 },
+    { "field": "date", "headerName": "Date", "width": 180 },
+    { "field": "distribution", "headerName": "Distribution", "width": 180 },
+    { "field": "status", "headerName": "Status", "width": 200 },
+    { "field": "price", "headerName": "Price (in Rs.)", "width": 130 }
+  ]

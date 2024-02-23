@@ -1,0 +1,66 @@
+[
+    {
+      "ref_id": "100",
+      "customer": "John Doe",
+      "product": "Laptop",
+      "date": "08 Aug 2022",
+      "distribution": "Bangalore",
+      "status": "Placed",
+      "price": "1200.00"
+    },
+    {
+      "ref_id": "200",
+      "customer": "Jane Smith",
+      "product": "Smartphone",
+      "date": "23 Sept 2020",
+      "distribution": "Hyderabad",
+      "status": "In-transit",
+      "price": "800.00"
+    },
+    {
+      "ref_id": "300",
+      "customer": "Alice Johnson",
+      "product": "Tablet",
+      "date": "02 Nov 2023",
+      "distribution": "Patna",
+      "status": "Out for delivery",
+      "price": "400.00"
+    },
+    {
+      "ref_id": "400",
+      "customer": "Bob Brown",
+      "product": "Desktop",
+      "date": "03 Jan 2021",
+      "distribution": "Bangalore",
+      "status": "Placed",
+      "price": "1500.00"
+    },
+    {
+      "ref_id": "500",
+      "customer": "Michael Garcia",
+      "product": "Smartwatch",
+      "date": "23 Sept 2020",
+      "distribution": "Hyderabad",
+      "status": "In-transit",
+      "price": "300.00"
+    },
+    {
+      "ref_id": "600",
+      "customer": "Emily Taylor",
+      "product": "Headphones",
+      "date": "01 June 2023",
+      "distribution": "Patna",
+      "status": "Out for delivery",
+      "price": "50.00"
+    },
+    {
+      "ref_id": "700",
+      "customer": "David Rodriguez",
+      "product": "Camera",
+      "date": "23 July 2023",
+      "distribution": "Bangalore",
+      "status": "Placed",
+      "price": "700.00"
+    }
+  ]
+  
