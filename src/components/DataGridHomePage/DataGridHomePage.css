@@ -1,0 +1,17 @@
+.topBox{
+        width: 90vw;
+        height: 50px; 
+        background-color: #F4F4F4;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+        padding: 25px
+    }
+
+.bottomBox{
+        background-color: #FFFFFF;
+        width: 90vw;
+        height: 60vh;
+        padding: 25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px
+    }

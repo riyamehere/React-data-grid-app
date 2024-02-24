@@ -5,7 +5,7 @@ import DataGridHomePage from './components/DataGridHomePage/DataGridHomePage.com
 const App = () => {
   return (
     <Box className="parentBox">
-    <Box className= "childBox">
+    <Box className="childBox">
       <DataGridHomePage />
     </Box>
   </Box>

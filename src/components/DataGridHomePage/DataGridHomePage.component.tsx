@@ -5,8 +5,7 @@ import DataGridTable from "../DataGridTable/DataGridTable.component";
 import TableFilterComponent from "../TableFilter/TableFilter.component";
 import handleExportToExcel from "../../utils/exportToExcel";
 import { IOrder } from "../../interfaces/index";
-import { styles } from "./DataGridHomePage.css";
-
+import "./DataGridHomePage.css";
 /**
  * @author      : Riya Mehere
  * @date        : 2024-02-22
@@ -67,7 +66,7 @@ const DataGridHomePage: React.FC<Record<string, unknown>> = () => {
 
     return(
         <>
-        <Box sx={styles.topBox}>
+        <Box className="topBox">
         <TableFilterComponent
             selectedStatus={selectedStatus}
             selectedDistribution={selectedDistribution}
@@ -77,7 +76,7 @@ const DataGridHomePage: React.FC<Record<string, unknown>> = () => {
             exportToExcel={exportToExcel}
         />
         </Box>
-        <Box sx={styles.bottomBox}>
+        <Box className="bottomBox">
         <DataGridTable 
             rowData={data} 
             selectionModel={selectedRows}
